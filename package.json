@@ -5,6 +5,7 @@
   "dependencies": {
     "mongoose"  : "*",
     "lodash"    : "*",
-    "express"   : "*"
+    "express"   : "*",
+    "jade"      : "*"
   }
 }
